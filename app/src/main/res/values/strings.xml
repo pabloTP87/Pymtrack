@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Pymtrack</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_registry">Crear cuenta</string>
+    <string name="action_sign_in_short">Ingresar</string>
+    <string name="error_invalid_email">la direccion de correo es incorrecta</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">La contraseña es incorrecta</string>
+    <string name="error_field_required">Este valor es obligatorio</string>
+    <string name="permission_rationale">"Se necesita el permiso de contactos para completar
+        el proveedor de correo."
+    </string>
+
+    <!-- Strings de registro de usuario-->
+    <string name="introMensaje">Registrate introducciendo tu Correo electronico y una contraseña</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtPass">Contraseña</string>
+    <string name="btnCrear">Crear Cuenta</string>
+
+    <!-- Strings de catecorias activity -->
+    <string name="bienvenida">Bienvenido a Pymtrack, elige una de las categorias para encontrar un servicio</string>
+    <string name="titulo_hostal">Hostales</string>
+    <string name="descripcion_hostal">Escoge entre las distintas alternativas de descanso de la regiòn.</string>
+    <string name="titulo_comida">Servicios de comida</string>
+    <string name="descripcion_comida">Lugares de comida, restoranes o deliverys</string>
+    <string name="gestionarDatos">Gestionar datos de tu cuenta</string>
+
+    <!-- Strings para cambiar datos activity-->
+    <string name="introDatos">Aqui puedes cambiar tu contraseña:</string>
+    <string name="correoDatos">Ingresa tu Email</string>
+    <string name="cambioContraseña">Ingresa contraseña nueva</string>
+    <string name="cambirBoton">Cambiar contraseña</string>
+
+    <!-- Strings botones-->
+    <string name="mapaSushi">Mostrar en el mapa</string>
+    <string name="mapaHostal">Mostrar en el mapa</string>
+    <string name="title_activity_suchi_maps">Map</string>
+    <string name="title_activity_hostal_maps">Map</string>
+</resources>
